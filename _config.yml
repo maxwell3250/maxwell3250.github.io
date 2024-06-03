@@ -1,0 +1,13 @@
+domain: maxwell3250.github.io
+url: https://maxwell3250.github.io
+title: maxwell325
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+header_pages:
+  - index.md
+  - about.md
+style: dark
+listen_for_clients_preferred_style: true
+highlighter: rouge
+footer: '<a href="https://x.com/maxwell6506212">X</a> <a href="https://github.com/maxwell3250">GitHub</a>'
