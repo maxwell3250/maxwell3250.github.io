@@ -6,7 +6,7 @@ plugins:
   - jekyll-seo-tag
 header_pages:
   - index.md
-  - about.md
+  - whoami.md
 # style: dark
 # listen_for_clients_preferred_style: true
 highlighter: rouge
